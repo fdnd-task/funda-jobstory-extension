@@ -1,4 +1,4 @@
-# Zoek en filter boeken bij de OBA
+# Zoek en filter boeken in de OBA collectie
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
