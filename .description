@@ -1,7 +1,7 @@
 ---
-title: "Jobstory"                   
-client: "Funda"                    
-description: "shortEr is een voorbeeld prototype uitgewerkt op basis van een job story dat tijdens de les behandeld wordt description"   
+title: "Zoek en filter boeken bij de OBA"
+client: "OBA"
+description: "Ontwerp voor de OBA een zoekresultatenpagina met spannende boeken waarmee de resultaten gefilterd kunnen worden"   
 semester: 2                      
 sprint: 8                        
 support-level: 4    
