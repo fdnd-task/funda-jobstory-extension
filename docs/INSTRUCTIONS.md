@@ -1,6 +1,6 @@
 # Zoek en filter boeken in de OBA collectie
 
-In de opdracht Zoek-en-filter-boeken-in-de-OBA-collectie leer je JSON data laden en tonen op een pagina en de data filteren voor een beter zoekresultaat.
+Voor de opdracht Zoek-en-filter-boeken-in-de-OBA-collectie leer je JSON data laden en tonen op een pagina en de data filteren voor een beter zoekresultaat.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
