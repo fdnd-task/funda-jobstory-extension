@@ -7,7 +7,7 @@ Voor de opdracht Zoek-en-filter-boeken-in-de-OBA-collectie leer je JSON data la
 
 Leertaak: Werk voor een opdrachtgever een interactie uit met externe data. 
 Deze leertaak hoort bij sprint 8 "Keep user in control". 
-Dit is een {niveau van de opdracht} die je {individueel, in team} uitgevoerd voor {opdrachtgever}
+Dit is een uitbreidingstaak die je individueel uitvoert voor de OBA.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
