@@ -56,7 +56,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 #### Materiaal
 
-- [Resource](https://example.com)
+- [Schetsvaardigheden](https://www.youtube.com/channel/UCdVXQjEmKQJbEhClP94mX3Q)
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
